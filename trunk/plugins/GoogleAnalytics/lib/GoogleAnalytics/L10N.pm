@@ -2,7 +2,7 @@
 # Author: Milad Nekofar (http://www.nekofar.com)
 # Released under the Artistic License
 #
-# $Id:$
+# $Id$
 
 package GoogleAnalytics::L10N;
 use strict;
