@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<plugin version="0.2">
+  <name>Google Analytics</name>
+  <version_url>http://weblog.nekofar.com/movabletype/</version_url>
+  <sig>GoogleAnalytics/GoogleAnalytics.pl</sig>
+  <icon width="32">../../mt-static/plugins/GoogleAnalytics/images/icon.gif</icon>
+  <files>
+    <file>
+      <src>plugins/GoogleAnalytics</src>
+      <destination>plugins/GoogleAnalytics</destination>
+    </file>
+    <file>
+      <src>mt-static/plugins/GoogleAnalytics</src>
+      <destination>plugins/GoogleAnalytics</destination>
+      <static>1</static>
+    </file>
+  </files>
+  <uninstall>
+    <rmdir>plugins/GoogleAnalytics</rmdir>
+    <rmdir static="1">plugins/GoogleAnalytics</rmdir>
+  </uninstall>
+</plugin>
