@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <plugin version="0.2">
   <name>Google Analytics</name>
-  <version_url>http://weblog.nekofar.com/movabletype/</version_url>
+  <version_url>http://plugins.movalog.ir/plugin-manager.php?plugin=GoogleAnalytics</version_url>
   <sig>GoogleAnalytics/GoogleAnalytics.pl</sig>
   <icon width="32">../../mt-static/plugins/GoogleAnalytics/images/icon.gif</icon>
   <files>
