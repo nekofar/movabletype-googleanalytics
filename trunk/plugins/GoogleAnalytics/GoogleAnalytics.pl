@@ -16,6 +16,7 @@ my $plugin = MT::Plugin->new({
 	author_name => '<MT_TRANS phrase="Milad Nekofar">',
 	author_link => 'http://wwww.nekofar.com/',
 	l10n_class => 'GoogleAnalytics::L10N',
+	icon => 'images/icon.gif',
 });
 MT->add_plugin($plugin);
 
